@@ -12,4 +12,4 @@ improved application’s availability and stability.
 ![UI](/images/q-money-ui.png)
 
 
-Note: This is a private project developed under Crio.Do's externship, and hence source codes can not be made public. 
+<sub> Note: This is a private project developed under Crio.Do's externship, and hence source codes can not be made public. </sub>
