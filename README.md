@@ -1,0 +1,2 @@
+# QMoney
+Stock Portfolio Analyzer
