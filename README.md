@@ -8,6 +8,6 @@ improved application’s availability and stability.
 - Used multithreading to boost performance and reduced response time by approx. 75%.
 
 <br>
-![architectue](/q-money-architecture.png)
+![architectue](q-money-architecture.png)
 <br>
-![architectue](/q-money-ui.png)
+![UI](q-money-ui.png)
