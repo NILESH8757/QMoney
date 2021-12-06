@@ -7,7 +7,6 @@ QMoney is a visual stock portfolio analyzer. It helps portfolio managers make tr
 improved application’s availability and stability.
 - Used multithreading to boost performance and reduced response time by approx. 75%.
 
-<br>
-![architectue](images/q-money-architecture.png)
-<br>
-![UI](images/q-money-ui.png)
+![architectue](/images/q-money-architecture.png)
+
+![UI](/images/q-money-ui.png)
